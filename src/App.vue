@@ -48,8 +48,4 @@ export default {
           <img class="pl-20" v-else-if="!beitreten" src="./assets/arrowNo.svg" alt="Pfeil">
         </div>
     </div>
-
-
-
-
 </template>
