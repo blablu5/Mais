@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="visual"
+   viewBox="0 0 900 600"
+   width="900"
+   height="600"
+   version="1.1"
+   sodipodi:docname="spacer green.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.8579562"
+     inkscape:cx="395.70785"
+     inkscape:cy="384.05224"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="yellow">
+    <rect
+       style="fill:#fbbf24;fill-opacity:1;stroke:#fbbf24;stroke-width:11.3386;stroke-opacity:1"
+       id="rect998"
+       width="1207.5209"
+       height="269.24451"
+       x="-238.93994"
+       y="361.32379" />
+  </g>
+  <path
+     d="m 0,585.84964 6.5,-3.41082 C 13,579.028 26,572.20634 39,569.41567 c 13,-2.79069 26,-1.55036 39,-1.55036 13,0 26,-1.24033 39.2,1.42633 13.1,2.72867 26.5,9.30225 39.6,9.30225 13.2,0 26.2,-6.57358 39.2,-5.33328 13,1.24032 26,10.29446 39,12.89914 13,2.60459 26,-1.36438 39,-6.5116 13,-5.14722 26,-11.59679 39,-8.55808 13,2.97673 26,15.37972 39,21.3952 13,5.9534 26,5.58129 39,5.14724 13,-0.43416 26,-0.80625 39.2,-2.79071 13.1,-1.98446 26.5,-5.45731 39.6,-5.70537 13.2,-0.18599 26.2,2.9147 39.2,-1.61239 13,-4.58912 26,-16.74403 39,-20.71302 13,-3.9069 26,0.43414 39,-0.9922 13,-1.48836 26,-8.68209 39,-10.66657 13,-1.98446 26,1.36431 39,6.63558 13,5.27127 26,12.465 39,16.93009 13,4.46508 26,6.07745 39.2,6.69763 13.1,0.62013 26.5,0.24804 39.6,-2.48063 13.2,-2.66661 26.2,-7.62782 39.2,-10.91461 13,-3.34882 26,-4.96121 39,-6.01545 13,-1.05423 26,-1.42634 32.5,-1.6744 l 6.5,-0.18599 v -237.5174 h -6.5 c -6.5,0 -19.5,0 -32.5,0 -13,0 -26,0 -39,0 -13,0 -26,0 -39.2,0 -13.1,0 -26.5,0 -39.6,0 -13.2,0 -26.2,0 -39.2,0 -13,0 -26,0 -39,0 -13,0 -26,0 -39,0 -13,0 -26,0 -39,0 -13,0 -26,0 -39,0 -13,0 -26,0 -39,0 -13,0 -26,0 -39.2,0 -13.1,0 -26.5,0 -39.6,0 -13.2,0 -26.2,0 -39.2,0 -13,0 -26,0 -39,0 -13,0 -26,0 -39,0 -13,0 -26,0 -39,0 -13,0 -26,0 -39,0 -13,0 -26,0 -39,0 -13,0 -26,0 -39.2,0 -13.1,0 -26.5,0 -39.6,0 -13.2,0 -26.2,0 -39.2,0 -13,0 -26,0 -39,0 -13,0 -26,0 -32.5,0 H 0 Z"
+     fill="#166534"
+     id="path4"
+     style="stroke-width:0.787492;fill:#14532d;fill-opacity:1" />
+  <rect
+     style="fill:#14532d;fill-opacity:1;stroke:#14532d;stroke-width:11.3386"
+     id="rect9225"
+     width="1223.8387"
+     height="376.4761"
+     x="-155.01956"
+     y="-27.973455" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="green" />
+</svg>
