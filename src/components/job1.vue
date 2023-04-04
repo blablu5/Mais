@@ -47,9 +47,12 @@
         <button id="titel" class="font-fantasy text-white text-left" @click="zoom(artikel.id)">{{ artikel.titel }}</button>
       </div>
     </div>
-    <p v-if = "finished && score > 0" class="text-white mx-5 my-5">Mit dieser Auswahl an Artikeln wirst du {{ score }}% der Personen die diesen Flyer lesen überzeugen dem Mais-Fanclub beizutreten.</p>
-    <p v-if = "finished && score < 0" class="text-white mx-5 my-5">Mit dieser Auswahl an Artikeln wirst du {{ score*-1 }}% der Personen die diesen Flyer lesen überzeugen dem Zugetti-Fanclub beizutreten.</p>
-    <p v-if = "finished && score === 0" class="text-white mx-5 my-5">Mit dieser Auswahl an Artikeln wirst du niemanden überzeugen dem Mais-Fanclub oder dem Zugetti-Fanclub beizutreten.</p>
+    <div  ref="resault">
+      <p v-if = "finished && score > 0" class="text-white mx-5 my-5">Mit dieser Auswahl an Artikeln wirst du {{ score }}% der Personen die diesen Flyer lesen überzeugen dem Mais-Fanclub beizutreten.</p>
+      <p v-if = "finished && score < 0" class="text-white mx-5 my-5">Mit dieser Auswahl an Artikeln wirst du {{ score*-1 }}% der Personen die diesen Flyer lesen überzeugen dem Zugetti-Fanclub beizutreten.</p>
+      <p v-if = "finished && score === 0" class="text-white mx-5 my-5">Mit dieser Auswahl an Artikeln wirst du niemanden überzeugen dem Mais-Fanclub oder dem Zugetti-Fanclub beizutreten.</p>
+
+    </div>
   </div>
 </template>
 

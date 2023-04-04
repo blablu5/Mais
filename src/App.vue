@@ -29,7 +29,8 @@ export default {
       this.disabled = true
     },
     scrolling() {
-      this.$refs["arrows"].scrollIntoView({ behavior: "smooth" })
+      const el = document.getElementById("arrows");
+      el.scrollIntoView();
     }
   }
 }
@@ -60,7 +61,7 @@ export default {
                 </button>
             </div>
         </div>
-        <div ref="arrows" class="flex justify-center">
+        <div id="arrows" class="flex justify-center">
           <img class="pr-20" v-if="beitreten&&entschieden" src="./assets/arrowYes.svg" alt="Pfeil">
           <img class="pl-20" v-else-if="!beitreten" src="./assets/arrowNo.svg" alt="Pfeil">
         </div>
